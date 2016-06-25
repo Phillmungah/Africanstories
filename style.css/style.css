@@ -1,0 +1,15 @@
+html {
+    font-size: 38px;
+    font-style: italic;
+    background-color: aqua;
+}
+body {
+    font-size: 38px;
+    font-style: oblique;
+    background-color: aqua;
+    background-image: image(home/pictures/002jpg)
+}
+h1 {
+    font-size: 46px;
+    font-style: italic;
+}
